@@ -1,0 +1,6 @@
+psutil
+requests
+yara-python
+tabulate
+colorama
+tqdm
